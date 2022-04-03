@@ -1,0 +1,21 @@
+body {
+  margin: auto;
+  max-width: 85em;
+}
+
+.custom-wrapper {
+  display: flex;
+}
+.custom-left {
+  padding-right: 100px;
+}
+.custom-right {
+}
+
+.custom-right-logout {
+  padding-left: 400px;
+}
+
+.course-tags {
+  padding-right: 50px;
+}
